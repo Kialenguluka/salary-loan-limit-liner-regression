@@ -1,2 +1,24 @@
-# salary-loan-limit-liner-regression
-O salary-loan-limit-liner-regression usa os conceitos básicos de Regressão Linear Simples para prever o limite de empréstimo para um determinado salário.
+# 📈 Linear Regression Project
+
+## 🎯 Objetivo
+Aplicar Regressão Linear para prever valores com base em dados históricos.
+
+## 🛠 Tecnologias
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Scikit-Learn
+
+## 📊 Processo
+1. Importação e limpeza
+2. Análise exploratória
+3. Treinamento do modelo
+4. Avaliação
+
+## 📈 Resultados
+- MSE: 56.58
+
+## 🚀 Como Executar
+
+pip install -r requirements.txt
